@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cek Kesehatan</string>
+    <string name="aplikasi_logika_fuzzy">Aplikasi Logika Fuzzy</string>
+    <string name="cek_tingkat_kesehatan_anda">Cek Tingkat Kesehatan Anda</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="berat">Berat</string>
+    <string name="proses">Proses</string>
+    <string name="hasil_tes_anda">Hasil Tes Anda</string>
+</resources>
